@@ -1,0 +1,7 @@
+name = "build"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Enrique Flores"]
+maintainers = ["Enrique Flores <taguniversalmachine@gmail.com>"]
+maintainers-logins = ["taguniversalmachine"]
