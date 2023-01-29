@@ -1,5 +1,5 @@
-name = "build"
-description = "Shiny new project"
+name = "adautil"
+description = "TAG fork of ada-util"
 version = "0.1.0-dev"
 
 authors = ["Enrique Flores"]
